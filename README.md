@@ -1,41 +1,63 @@
-<div align="left">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=800&color=00FF9C&background=000000&vCenter=true&multiline=true&lines=%3E+whoami;Srushti+Joshi;%3E+status;B.Tech+Automation+%26+Robotics;%3E+focus;software+development;ai-driven+applications;cybersecurity;%3E+current_work;web+development+(html%2C+css%2C+javascript);ai-based+learning+tools;programming+fundamentals;%3E+projects;ignitia+%3A%3A+ai-powered+learning+platform;semester+projects+%3A%3A+oops+%26+core+concepts;%3E+learning;advanced+programming;web+deployment;cybersecurity+basics;%3E+portfolio;portfolio-srushti.lovable.app" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=9F7AEA&center=true&vCenter=true&multiline=true&lines=Hello%2C+I’m+Srushti+Joshi;B.Tech+Automation+%26+Robotics;Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Explorer" />
 
 </div>
 
+---
+
+<div align="center">
+
+### 🌙 Building quietly. Learning deeply. Growing consistently.
+
+</div>
+
+---
+
+## 🖤 About Me
+
 ```txt
-> whoami
-Srushti Joshi
+Curious engineer with a love for clean code
+and meaningful problem solving.
+I’m a B.Tech student in Automation & Robotics with strong interests in
+software development, AI-driven applications, and cybersecurity.
+I enjoy creating practical projects that blend engineering concepts with
+real-world impact.
 
-> status
-B.Tech | Automation & Robotics
+💻 What I Work On
+🌐 Web development using HTML, CSS, JavaScript
 
-> focus
-software development
-ai-driven applications
-cybersecurity
+🧠 AI-based solutions for learning and productivity
 
-> current_work
-web development (html, css, javascript)
-ai-based learning tools
-programming fundamentals
+📘 Academic & personal projects in programming fundamentals
 
-> projects
-ignitia :: ai-powered personalized learning platform
-semester projects :: oops & core concepts
+🧩 Constantly refining problem-solving skills
 
-> learning
-advanced programming
-web deployment
-system & cybersecurity basics
+🚀 Projects
+Ignitia
+AI-powered web application for personalized learning paths
 
-> goals
-build meaningful software
-contribute to open source
-grow as an engineer
+Semester Mini Projects
+Focused on OOPs and core programming concepts
 
-> portfolio
-https://portfolio-srushti.lovable.app/
+🌱 Currently Learning
+Advanced programming concepts
 
-█
+Modern web technologies & deployment
+
+Cybersecurity and system design basics
+
+🎯 Goals
+Build impactful and well-documented projects
+
+Contribute to open-source communities
+
+Grow into a strong, versatile software engineer
+
+🌐 Portfolio
+🔗 https://portfolio-srushti.lovable.app/
+
+<div align="center">
+✨ Designing solutions, one line of code at a time. ✨
+
+</div> ```
