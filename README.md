@@ -32,13 +32,16 @@ I enjoy creating practical projects that blend engineering concepts with
 real-world impact.
 
 💻 What I Work On
-🌐 Web development using HTML, CSS, JavaScript
 
 🧠 AI-based solutions for learning and productivity
 
 📘 Academic & personal projects in programming fundamentals
 
 🧩 Constantly refining problem-solving skills
+
+📈 I am doing some preliminary research on "Mathematical–Computational Framework using Graph Theory, Discrete Optimization, and Feedback Control"
+
+
 
 🚀 Projects
 Ignitia
