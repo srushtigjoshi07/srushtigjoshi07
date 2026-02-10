@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=9F7AEA&center=true&vCenter=true&multiline=true&lines=Hello%2C+I’m+Srushti+Joshi;B.Tech+Automation+%26+Robotics;Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Explorer" />
+<h1>Srushti Joshi</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=B.Tech+Automation+%26+Robotics" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=AAAAAA&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Explorer" />
 
 </div>
+
 
 
 
