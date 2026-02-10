@@ -31,14 +31,11 @@ software development, AI-driven applications, and cybersecurity.
 I enjoy creating practical projects that blend engineering concepts with
 real-world impact.
 
+
 💻 What I Work On
-
 🧠 AI-based solutions for learning and productivity
-
 📘 Academic & personal projects in programming fundamentals
-
 🧩 Constantly refining problem-solving skills
-
 📈 Doing some preliminary research on "Mathematical–Computational Framework using Graph Theory, Discrete Optimization, and Feedback Control"
 
 
@@ -47,21 +44,19 @@ real-world impact.
 Ignitia
 AI-powered web application for personalized learning paths
 
-Semester Mini Projects
+Semester Open-Ended Projects
 Focused on OOPs and core programming concepts
 
 🌱 Currently Learning
-Advanced programming concepts
-
-Modern web technologies & deployment
-
-Cybersecurity and system design basics
+->Advanced programming concepts
+->Modern web technologies & deployment
+->Cybersecurity and system design basics
+->Learning and experimenting with AI, ML, and LLMs.
+->Interested in how intelligent systems are built from the ground up.
 
 🎯 Goals
 Build impactful and well-documented projects
-
 Contribute to open-source communities
-
 Grow into a strong, versatile software engineer
 
 🌐 Portfolio
