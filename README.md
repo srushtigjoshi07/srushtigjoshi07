@@ -57,7 +57,5 @@ Grow into a strong, versatile software engineer
 🌐 Portfolio
 🔗 https://portfolio-srushti.lovable.app/
 
-<div align="center">
-✨ Designing solutions, one line of code at a time. ✨
 
-</div> ```
+
