@@ -4,6 +4,8 @@
 
 </div>
 
+
+
 ---
 
 <div align="center">
@@ -56,6 +58,9 @@ Grow into a strong, versatile software engineer
 
 🌐 Portfolio
 🔗 https://portfolio-srushti.lovable.app/
+
+🌐 Linkedin Profile
+🔗 https://www.linkedin.com/in/srushti-g-joshi-617734301/
 
 
 
