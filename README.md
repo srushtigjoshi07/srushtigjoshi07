@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Srushti Joshi</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=9F7AEA&center=true&vCenter=true&width=500&lines=Srushti+Joshi" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=B.Tech+Automation+%26+Robotics" />
 
