@@ -39,7 +39,7 @@ real-world impact.
 
 🧩 Constantly refining problem-solving skills
 
-📈 I am doing some preliminary research on "Mathematical–Computational Framework using Graph Theory, Discrete Optimization, and Feedback Control"
+📈 Doing some preliminary research on "Mathematical–Computational Framework using Graph Theory, Discrete Optimization, and Feedback Control"
 
 
 
