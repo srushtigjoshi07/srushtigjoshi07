@@ -36,7 +36,6 @@ real-world impact.
 🧠 AI-based solutions for learning and productivity
 📘 Academic & personal projects in programming fundamentals
 🧩 Constantly refining problem-solving skills
-📈 Doing some preliminary research on "Mathematical–Computational Framework using Graph Theory, Discrete Optimization, and Feedback Control"
 
 
 
